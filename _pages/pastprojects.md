@@ -5,8 +5,6 @@ permalink: /pastprojects/
 author_profile: true
 ---
 
-
-
 Year 2024
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
