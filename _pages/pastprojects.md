@@ -5,7 +5,7 @@ permalink: /pastprojects/
 author_profile: true
 ---
 
-{% include base_path %}
+
 
 Year 2024
 ======
